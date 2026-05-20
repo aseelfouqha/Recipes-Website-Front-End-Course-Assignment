@@ -21,7 +21,7 @@ function About() {
 
       <h2>Why This Project?</h2>
       <p>
-        IDK
+        IDK, practice I guess
       </p>
 
       <h2>What We Believe</h2>
